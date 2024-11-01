@@ -1,0 +1,870 @@
+# Copyright (C) 2024 PluginEver
+# This file is distributed under the GPL v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wholesale Manager for WooCommerce 1.2.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/wc-wholesale-manager\n"
+"POT-Creation-Date: 2024-10-24 08:45:29+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2024-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: lib/Lib/Plugin.php:309
+msgid "Go Pro"
+msgstr ""
+
+#: lib/Lib/Plugin.php:655 src/Admin/Settings.php:228
+msgid "Documentation"
+msgstr ""
+
+#: lib/Lib/Plugin.php:662
+msgid "Support"
+msgstr ""
+
+#: lib/Lib/Plugin.php:669
+msgid "Review"
+msgstr ""
+
+#: lib/Lib/Plugin.php:675
+msgid "More Plugins"
+msgstr ""
+
+#: lib/Lib/Plugin.php:692
+msgid "Settings"
+msgstr ""
+
+#: lib/Lib/Settings.php:97
+msgid "Settings saved."
+msgstr ""
+
+#: lib/Lib/Settings.php:236 lib/Lib/Settings.php:324
+msgid "Recommended"
+msgstr ""
+
+#: lib/Lib/Settings.php:237 lib/Lib/Settings.php:325
+msgid "Install Now"
+msgstr ""
+
+#: lib/Lib/Settings.php:296
+msgid "Need Help?"
+msgstr ""
+
+#: lib/Lib/Settings.php:339
+msgid "Join our Community"
+msgstr ""
+
+#: lib/Lib/Settings.php:343
+msgid "Request a Feature"
+msgstr ""
+
+#: lib/Lib/Settings.php:347
+msgid "Report a Bug"
+msgstr ""
+
+#: src/Admin/Admin.php:57 src/Admin/Admin.php:58
+msgid "Wholesale"
+msgstr ""
+
+#: src/Admin/Admin.php:89
+#. translators: 1: Plugin name 2: WordPress
+msgid ""
+"Thank you for using %1$s. If you like it, please leave us a %2$s rating. A "
+"huge thank you from PluginEver in advance!"
+msgstr ""
+
+#: src/Admin/Admin.php:91
+msgid "Thanks :)"
+msgstr ""
+
+#: src/Admin/Admin.php:109
+#. translators: 1: Plugin version
+msgid "Version %s"
+msgstr ""
+
+#: src/Admin/Admin.php:171
+msgid "Error - please try again"
+msgstr ""
+
+#: src/Admin/Admin.php:177
+msgid "Please enter role name."
+msgstr ""
+
+#: src/Admin/Admin.php:194
+msgid "Please select valid discount type."
+msgstr ""
+
+#: src/Admin/Admin.php:223
+msgid "Role updated successfully."
+msgstr ""
+
+#: src/Admin/Admin.php:275
+msgid "Email"
+msgstr ""
+
+#: src/Admin/Admin.php:276
+msgid "Content type"
+msgstr ""
+
+#: src/Admin/Admin.php:277 src/Emails/class-wcwm-admin-new-user.php:165
+msgid "Recipient(s)"
+msgstr ""
+
+#: src/Admin/Admin.php:308
+msgid "Customer"
+msgstr ""
+
+#: src/Admin/Admin.php:314
+msgid "Manually sent"
+msgstr ""
+
+#: src/Admin/Admin.php:314
+msgid "Manual"
+msgstr ""
+
+#: src/Admin/Admin.php:316 src/Admin/views/discounts-table.php:50
+msgid "Enabled"
+msgstr ""
+
+#: src/Admin/Admin.php:316 src/Admin/views/role.php:58
+#: src/Admin/views/role.php:61
+msgid "Yes"
+msgstr ""
+
+#: src/Admin/Admin.php:318
+msgid "Disabled"
+msgstr ""
+
+#: src/Admin/Admin.php:330
+msgid "Manage"
+msgstr ""
+
+#: src/Admin/Admin.php:359 src/Admin/views/role.php:73
+msgid "Available in Pro Version"
+msgstr ""
+
+#: src/Admin/Admin.php:360 src/Admin/views/role.php:74
+msgid "Upgrade to Pro Now"
+msgstr ""
+
+#: src/Admin/Admin.php:362 src/Admin/Settings.php:26
+#: src/Admin/views/role.php:76
+msgid "Registration Fields"
+msgstr ""
+
+#: src/Admin/Admin.php:389 src/Admin/Admin.php:473 src/Admin/Admin.php:514
+msgid ""
+"Select the visibility of the product public will be visible to all users, "
+"public only will be visible to public users only, wholesale only will be "
+"visible to wholesale users only."
+msgstr ""
+
+#: src/Admin/Admin.php:391 src/Admin/Admin.php:474 src/Admin/Admin.php:508
+msgid "Visibility"
+msgstr ""
+
+#: src/Admin/Admin.php:399 src/Admin/Admin.php:482 src/Admin/Admin.php:524
+msgid "Role based discount"
+msgstr ""
+
+#: src/Admin/Admin.php:400
+msgid ""
+"If if you set a discount for a role, it will override the category wise & "
+"global discount."
+msgstr ""
+
+#: src/Admin/Admin.php:468
+msgid "Wholesale Options"
+msgstr ""
+
+#: src/Admin/Admin.php:484 src/Admin/Admin.php:527
+msgid ""
+"If if you set a discount for a role, it will override the global discount "
+"for this role."
+msgstr ""
+
+#: src/Admin/Settings.php:23
+msgid "General"
+msgstr ""
+
+#: src/Admin/Settings.php:24
+msgid "Roles"
+msgstr ""
+
+#: src/Admin/Settings.php:25
+msgid "Emails"
+msgstr ""
+
+#: src/Admin/Settings.php:27
+msgid "Advanced"
+msgstr ""
+
+#: src/Admin/Settings.php:48
+msgid "General Settings"
+msgstr ""
+
+#: src/Admin/Settings.php:50
+msgid "The following options are used to configure the plugin."
+msgstr ""
+
+#: src/Admin/Settings.php:55
+msgid "Registration Page"
+msgstr ""
+
+#: src/Admin/Settings.php:56
+msgid ""
+"Select the page where you have placed the [wholesale_registration_form] "
+"shortcode."
+msgstr ""
+
+#: src/Admin/Settings.php:57
+msgid "Wholesale registration page"
+msgstr ""
+
+#: src/Admin/Settings.php:65
+msgid "Disable Auto Approval"
+msgstr ""
+
+#: src/Admin/Settings.php:66
+msgid "Disable auto approval of wholesale user registration."
+msgstr ""
+
+#: src/Admin/Settings.php:67
+msgid ""
+"If enabled, the admin will have to manually approve the wholesale user "
+"registration."
+msgstr ""
+
+#: src/Admin/Settings.php:74
+msgid "Disable Tax"
+msgstr ""
+
+#: src/Admin/Settings.php:75
+msgid "Disable tax collection for wholesale users."
+msgstr ""
+
+#: src/Admin/Settings.php:76
+msgid "You can individually enable/disable tax collection for each wholesale role."
+msgstr ""
+
+#: src/Admin/Settings.php:83
+msgid "Disable Coupon"
+msgstr ""
+
+#: src/Admin/Settings.php:84
+msgid "Disable coupon for wholesale users."
+msgstr ""
+
+#: src/Admin/Settings.php:85
+msgid "Whole sale users will not be able to use coupons."
+msgstr ""
+
+#: src/Admin/Settings.php:92
+msgid "Wholesale Only Store"
+msgstr ""
+
+#: src/Admin/Settings.php:93
+msgid "Enable wholesale only store."
+msgstr ""
+
+#: src/Admin/Settings.php:94
+msgid "If enabled, only logged in wholesale users will be able to access the store."
+msgstr ""
+
+#: src/Admin/Settings.php:101
+msgid "Admin as Wholesale User"
+msgstr ""
+
+#: src/Admin/Settings.php:102
+msgid "Enable admin as wholesale user."
+msgstr ""
+
+#: src/Admin/Settings.php:103
+msgid "If enabled, admin will be treated as a wholesale user."
+msgstr ""
+
+#: src/Admin/Settings.php:122
+msgid "Email Settings"
+msgstr ""
+
+#: src/Admin/Settings.php:124
+msgid ""
+"Email notifications sent from WooCommerce Wholesale Manager are listed "
+"below. You can customize the subject line and/or message body of each email."
+msgstr ""
+
+#: src/Admin/Settings.php:142
+msgid "Advanced Settings"
+msgstr ""
+
+#: src/Admin/Settings.php:144
+msgid "The following options are the plugin advanced settings."
+msgstr ""
+
+#: src/Admin/Settings.php:148
+msgid "Delete plugin data"
+msgstr ""
+
+#: src/Admin/Settings.php:149
+msgid "Delete plugin data."
+msgstr ""
+
+#: src/Admin/Settings.php:150
+msgid "Enabling this will delete all the data while uninstalling the plugin."
+msgstr ""
+
+#: src/Admin/Settings.php:197
+msgid ""
+"Wholesale registration field customization with the different types of "
+"input field types."
+msgstr ""
+
+#: src/Admin/Settings.php:198
+msgid "Unlimited wholesale roles."
+msgstr ""
+
+#: src/Admin/Settings.php:199
+msgid "And many more ..."
+msgstr ""
+
+#: src/Admin/Settings.php:203
+msgid "Want More?"
+msgstr ""
+
+#: src/Admin/Settings.php:204
+msgid ""
+"This plugin offers a premium version which comes with the following "
+"features:"
+msgstr ""
+
+#: src/Admin/Settings.php:211
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: src/Admin/views/discounts-table.php:14 src/Admin/views/edit-role.php:53
+msgid "Percentage"
+msgstr ""
+
+#: src/Admin/views/discounts-table.php:15 src/Admin/views/edit-role.php:54
+msgid "Fixed"
+msgstr ""
+
+#: src/Admin/views/discounts-table.php:46 src/Admin/views/edit-role.php:21
+#: src/Admin/views/role.php:22
+msgid "Role"
+msgstr ""
+
+#: src/Admin/views/discounts-table.php:48 src/Admin/views/edit-role.php:39
+#: src/Admin/views/role.php:23
+msgid "Discount"
+msgstr ""
+
+#: src/Admin/views/discounts-table.php:49 src/Admin/views/edit-role.php:49
+msgid "Discount Type"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:20
+msgid "Wholesale User Roles"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:29
+msgid "Role Name"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:33
+msgid "The name of the role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:43
+msgid "The discount for the role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:56
+msgid "The discount type for the role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:62 src/Admin/views/role.php:26
+msgid "Tax Status"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:66 src/Admin/views/edit-role.php:80
+msgid "Inherited"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:67
+msgid "Enable"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:68
+msgid "Disable"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:70
+msgid "The tax status for the role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:76
+msgid "Tax Display"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:81
+msgid "Including tax"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:82
+msgid "Excluding tax"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:84
+msgid "How to display the price for the role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:90
+msgid "Disabled Payment Gateways"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:103
+msgid "The payment gateways that will be disabled for this role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:109
+msgid "Disabled Shipping Methods"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:121
+msgid "The shipping methods that will be disabled for this role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:127 src/Admin/views/role.php:24
+msgid "Product Pricing"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:131
+msgid "Enable product specific discounts for this role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:132
+msgid ""
+"If enabled, you will be able to set discounts for each product for this "
+"role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:138 src/Admin/views/role.php:25
+msgid "Category Pricing"
+msgstr ""
+
+#: src/Admin/views/edit-role.php:142
+msgid "Enable category specific discounts for this role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:143
+msgid ""
+"If enabled, you will be able to set discounts for each product category for "
+"this role."
+msgstr ""
+
+#: src/Admin/views/edit-role.php:150
+msgid "Save changes"
+msgstr ""
+
+#: src/Admin/views/role.php:16
+msgid "Wholesale Role"
+msgstr ""
+
+#: src/Admin/views/role.php:40
+msgid "Edit"
+msgstr ""
+
+#: src/Admin/views/role.php:44
+msgid "Default role"
+msgstr ""
+
+#: src/Admin/views/role.php:58 src/Admin/views/role.php:61
+msgid "No"
+msgstr ""
+
+#: src/Admin/views/role.php:72
+msgid "Want to Create More Wholesale Roles?"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:27
+#: src/Emails/class-wcwm-new-user.php:27
+msgid "New Wholesale User"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:28
+msgid ""
+"New wholesale user emails are sent to chosen recipient(s) when a new "
+"wholesale user is held for moderation."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:53
+msgid "New wholesale user registration ({user_email}) - {site_title}"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:63
+msgid "New wholesale user registration"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:139
+#: src/Emails/class-wcwm-wholesaler-approved.php:75
+msgid "Hi there,"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:140
+msgid "A new wholesale user has registered on your site {site_title}."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:141
+msgid "Username: {user_email}"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:142
+msgid "Email: {user_email}"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:143
+msgid "Role: {user_role}"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:144
+msgid "You can edit this user in the dashboard here: {edit_user_url}"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:145
+msgid ""
+"If you approve the request, the user will receive ‘Wholesale user approved’ "
+"email containing their login details so that they can access the store."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:146
+msgid ""
+"If you do not approve the request, the user will receive ‘Wholesale user "
+"declined’ email and the account will be deleted."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:156
+#: src/Emails/class-wcwm-email.php:74
+#. Translators: %s: list of placeholders
+#. translators: %s: list of placeholders
+msgid "Available placeholders: %s"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:159
+#: src/Emails/class-wcwm-email.php:77
+msgid "Enable/Disable"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:161
+#: src/Emails/class-wcwm-email.php:79
+msgid "Enable this email notification"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:168
+#. Translators: %s: admin email
+msgid "Enter recipients (comma separated) for this email. Defaults to %s."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:174
+#: src/Emails/class-wcwm-email.php:83
+msgid "Subject"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:177
+#. Translators: %s: blog name
+msgid ""
+"This controls the email subject line. Leave blank to use the default "
+"subject: <code>%s</code>."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:183
+msgid "Email Heading"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:186
+#. Translators: %s: blog name
+msgid ""
+"This controls the main heading contained within the email notification. "
+"Leave blank to use the default heading: <code>%s</code>."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:192
+#: src/Emails/class-wcwm-email.php:99
+msgid "Email content"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:193
+#: src/Emails/class-wcwm-email.php:100
+msgid "Text to appear as the main email content."
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:195
+#: src/Emails/class-wcwm-email.php:102
+msgid "N/A"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:201
+#: src/Emails/class-wcwm-email.php:108
+msgid "Email type"
+msgstr ""
+
+#: src/Emails/class-wcwm-admin-new-user.php:203
+#: src/Emails/class-wcwm-email.php:110
+msgid "Choose which format of email to send."
+msgstr ""
+
+#: src/Emails/class-wcwm-email.php:91
+msgid "Email heading"
+msgstr ""
+
+#: src/Emails/class-wcwm-new-user.php:29
+msgid ""
+"New wholesale user emails are sent to the wholesale wholesale account is "
+"created manually by an administrator."
+msgstr ""
+
+#: src/Emails/class-wcwm-new-user.php:100
+msgid "Your wholesale account has been created"
+msgstr ""
+
+#: src/Emails/class-wcwm-new-user.php:110
+msgid "Welcome to {site_title}"
+msgstr ""
+
+#: src/Emails/class-wcwm-new-user.php:119
+msgid "Thanks for registering for the wholesale store. You can login as follows:"
+msgstr ""
+
+#: src/Emails/class-wcwm-new-user.php:121
+msgid "Username:"
+msgstr ""
+
+#: src/Emails/class-wcwm-new-user.php:123
+#: src/Emails/class-wcwm-wholesaler-approved.php:79
+msgid "Click here to set your password."
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-approved.php:26
+msgid "Wholesale User Approved"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-approved.php:28
+msgid ""
+"Wholesale user approved emails are sent to the wholesale user when their "
+"account is approved."
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-approved.php:55
+#: src/Emails/class-wcwm-wholesaler-approved.php:65
+msgid "Your wholesale account has been approved"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-approved.php:76
+msgid "Thanks for registering for the wholesale account."
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-approved.php:77
+msgid ""
+"Your wholesale account has been approved. Your account details are as "
+"follows:"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-approved.php:78
+msgid "Your username is {user_login}"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-declined.php:28
+msgid "Declined Wholesale User"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-declined.php:30
+msgid ""
+"Declined wholesale user emails are sent to the wholesale user when their "
+"wholesale account is declined."
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-declined.php:51
+#: src/Emails/class-wcwm-wholesaler-declined.php:61
+msgid "Your wholesale account has been declined"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-declined.php:71
+msgid ""
+"Thanks for applying for the wholesale store. Unfortunately your request has "
+"not been accepted. Please contact us for further details."
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-pending.php:28
+msgid "Pending Wholesale User"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-pending.php:30
+msgid ""
+"Pending wholesale user emails are sent to the wholesale user when their "
+"wholesale account is pending approval."
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-pending.php:51
+msgid "[{site_title}] Your wholesale account is pending approval"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-pending.php:61
+msgid "Your wholesale account is pending approval"
+msgstr ""
+
+#: src/Emails/class-wcwm-wholesaler-pending.php:71
+msgid ""
+"Hi there. Your wholesale account is pending approval. We will let you know "
+"once it has been approved."
+msgstr ""
+
+#: src/Frontend.php:189
+msgid "You are already registered!"
+msgstr ""
+
+#: src/Frontend.php:234 src/Frontend.php:315
+msgid "Error:"
+msgstr ""
+
+#: src/Frontend.php:240
+msgid "Please provide a valid email address."
+msgstr ""
+
+#: src/Frontend.php:248
+msgid "An account is already registered with your email address. Please login."
+msgstr ""
+
+#: src/Frontend.php:251
+msgid ""
+"An account is already registered with this email address, please use a "
+"different email address."
+msgstr ""
+
+#: src/Frontend.php:260
+msgid "Please enter a valid account username."
+msgstr ""
+
+#: src/Frontend.php:268
+msgid "An account is already registered with your username. Please login."
+msgstr ""
+
+#: src/Frontend.php:271
+msgid ""
+"An account is already registered with this username, please use a different "
+"username."
+msgstr ""
+
+#: src/Frontend.php:308
+msgid ""
+"Your account has been created successfully and a password has been sent to "
+"your email address."
+msgstr ""
+
+#: src/Frontend.php:312
+msgid ""
+"Your account has been created and is pending approval. You will receive an "
+"email once your account has been approved."
+msgstr ""
+
+#: src/Frontend.php:349
+msgid ""
+"Your account is pending approval. You will receive an email once your "
+"account has been approved."
+msgstr ""
+
+#: src/Frontend.php:350
+msgid "Error"
+msgstr ""
+
+#: src/Helper.php:326
+msgid "Public"
+msgstr ""
+
+#: src/Helper.php:327
+msgid "Public Only"
+msgstr ""
+
+#: src/Helper.php:328
+msgid "Wholesaler Only"
+msgstr ""
+
+#: src/Installer.php:77
+#. translators: 1: plugin name 2: version number
+msgid "%1$s updated to version %2$s successfully."
+msgstr ""
+
+#: src/Installer.php:105
+msgid "Wholesale Registration"
+msgstr ""
+
+#: src/Plugin.php:88
+msgid "30%"
+msgstr ""
+
+#: src/Plugin.php:97
+#. translators: %1$s: link to the plugin page, %2$s: Offer content, %3$s: link
+#. to the plugin page, %4$s: end link to the plugin page
+msgid "%1$s%2$s%3$s Upgrade Now and Save %4$s"
+msgstr ""
+
+#: src/Plugin.php:112
+#. translators: %1$s: link to the plugin page, %2$s: Offer content, %3$s: link
+#. to the plugin page, %4$s: end link to the plugin page
+msgid "%1$s%2$s%3$s Claim your discount! %4$s"
+msgstr ""
+
+#: src/Roles.php:120
+msgid " - Wholesaler"
+msgstr ""
+
+#: templates/myaccount/registration-form.php:26
+#: templates/myaccount/registration-form.php:52
+msgid "Register"
+msgstr ""
+
+#: templates/myaccount/registration-form.php:35
+msgid "Username"
+msgstr ""
+
+#: templates/myaccount/registration-form.php:42
+msgid "Email address"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wholesale Manager for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://pluginever.com/plugins/woocommerce-wholesale-manager-pro/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Wholesale Manager for WooCommerce is the most powerful WooCommerce B2B "
+"plugin created for WooCommerce store owners. Sell products at wholesale "
+"prices to your registered B2B customers and also sell products at regular "
+"prices to your B2C customers all within your WooCommerce store."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PluginEver"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://pluginever.com/"
+msgstr ""
